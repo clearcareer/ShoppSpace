@@ -1,0 +1,20 @@
+.cd-pricing-header p {
+    padding-bottom: 40px;
+}
+
+.cd-pricing-header h2 {
+    padding-bottom: 0px;
+}
+
+.cd-pricing-header p {
+    color: #333333;
+}
+
+.pricing-list-wide {
+    width: 100%;
+}
+
+.pricing-table h1 {
+	margin-bottom: 0px;
+	padding-top: 40px;
+}
